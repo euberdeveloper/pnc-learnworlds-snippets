@@ -1,0 +1,9 @@
+<!-- WEBCOMPONENT CONTAINER -->
+<div id="group-registration" class="display: flex; align-items: center; justify-content:center"></div>
+<!-- WEBCOMPONENT INJECTION -->
+<script>
+    var groupRegistrationContainer = document.getElementById('group-registration');
+    groupRegistrationContainer.innerHTML = `
+	<pnc-group-registration access-token="${accessToken}" student-id="${studentId}" course-id="${courseId}"></pnc-group-registration>
+  `;
+</script>
