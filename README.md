@@ -1,3 +1,5 @@
+# 301 - Transferred to the [official organization](https://github.com/Preben-Norwegian-Community)
+
 # pnc-learnworlds-snippets
 The LearnWorld snippets of Preben Norwegian Community
 
